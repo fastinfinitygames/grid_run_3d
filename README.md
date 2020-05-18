@@ -1,1 +1,0 @@
-# grid_run_3d
